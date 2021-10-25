@@ -1,9 +1,9 @@
 # Assignment-2
 
 1. Pick one use case (defined below).
--  Jeg valgte predict stock market price for TESLA.
+-  Vi valgte predict stock market price for TESLA.
 2. Explore and research which algorithm would work best for this use case (regression or classification)
-- Jeg mener regression passer best for min oppgave da denne formen er best for priser osv.
+- Vi mener regression passer best for vår oppgave da denne formen er best for priser osv.
 3. Document your findings in a file (3-5 lines) on why you chose this algorithm.
 - 
 4. Train the algorithm using Python
